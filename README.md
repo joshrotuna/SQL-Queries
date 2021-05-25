@@ -1,7 +1,7 @@
 # SQL-Queries
 
 ## Project Description
-This project uses the skalia sample dataset and the specialty food sample database. It contains  databases that includes customer, employee, and inventory data regarding each dataset . This project uses many different SQL functions, including:
+This project uses the skalia sample dataset and the specialty food sample database. It contains databases that includes customer, employee, inventory, sales/rental data regarding each dataset. This project uses many different SQL functions, including:
 
  - GROUP BY
  - WHERE
@@ -9,7 +9,8 @@ This project uses the skalia sample dataset and the specialty food sample databa
  - Subqueries
  - INSERT
  - UPDATE
- - 
+
+It provides many examples of queries that can be executed for business purposes to extract the nessecary data and information, depending on the request.
 
 ## Requirements
 
