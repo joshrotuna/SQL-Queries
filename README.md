@@ -31,6 +31,9 @@ In your SQL Client Software create a new database connection with a new database
 **Specialty Food Database**
 Download the *Specialty_Food_Schema.sql* file. In your SQL Client Server, execute the code as is. This will create the necessary databases and insert the data required. 
 
+**SQL_Coding**
+After executing the schema previously, open the SQL_Coding file and run the code.
+
 ## Authors 
 [Joshua Rotuna](https://github.com/joshrotuna)
 
